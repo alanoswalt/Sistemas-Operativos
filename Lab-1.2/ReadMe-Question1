@@ -1,0 +1,12 @@
+Description
+Code where you find the first character in a String that doesn't repeat.
+
+How to build/run
+Just run the program with the IDLE of your choice
+
+Performance summary
+  Memory or CPU issues
+  The program uses more memory because of the complexity, but there where no CPU issues. 
+  
+  Complexity
+  Because it has one for inside of another for the complexity is n square. 
