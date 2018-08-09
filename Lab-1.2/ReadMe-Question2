@@ -1,0 +1,14 @@
+Description
+  Create a data structure that allows the user to (1) add integers and (2) report the median.
+
+How to build/run
+  When you run it with the IDLE of your choice, the code asks you a question, if you want to add numbers to the list or find the median of
+  the list. If you choose the first one then you add the number of your choice, until you decide to put median an get the median of the list 
+  you already gave. 
+
+Performance summary (Memory or CPU issues)
+    No memory or CPY issues
+
+
+Complexity
+  As a singel linked list the for the averege complexitywould be Θ(n) and for the worst will be Θ(1)
