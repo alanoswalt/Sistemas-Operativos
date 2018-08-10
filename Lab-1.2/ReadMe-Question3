@@ -1,0 +1,13 @@
+Description
+Given an integer N and a sorted list of k distinct integers in the range 0 to N-1 inclusive, 
+return a uniformly distributed random number from 0 to N-1 which is NOT on the list.
+
+How to build/run
+Just run the program with the IDLE of your choice
+
+Performance summary
+  Memory or CPU issues
+ The program is not finsh
+  
+  Complexity
+  I is expected to have a complexity of n.
